@@ -15,7 +15,7 @@ A backend-based Placement Management System developed using Java, Spring Boot, R
 - Spring Boot
 - REST APIs
 - JDBC
-- MySQL
+- PostgreSQL
 - Postman
 
 ## Testing
